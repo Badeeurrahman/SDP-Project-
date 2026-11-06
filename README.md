@@ -11,5 +11,4 @@ Chatbot Assistant: Get predefined answers about Python, FastAPI, REST APIs, MySQ
 Database Integration: Store student details, questions and practice attempts using MySQL.
 
 REST API: Connect frontend and backend using FastAPI and JSON.
-
 Search and Filter: Find programming questions by title and category.
